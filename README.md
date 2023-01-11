@@ -1,6 +1,6 @@
 ### Hi there 👋, Justin Haby
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/1562900728313958400/1673431925/1080x360)
+![Design and Development](https://pbs.twimg.com/profile_banners/1562900728313958400/1673432123/1080x360)
 
 I'm Justin from Texas, and I perform Software Design and Development. I really enjoy learning new languages and frameworks like Java (JDK), AWS cloud development and Database Management Systems (MYSQL/POPSQL). I'm consistently exposing myself to new technologies and enjoying the learning curve along the way. 
 
@@ -11,7 +11,6 @@ Skills: JS / HTML / CSS / AWS / MYSQL
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JustinHaby)  
 
 ![Profile views](https://gpvc.arturio.dev/JustinHaby)  
-
 
 
 
